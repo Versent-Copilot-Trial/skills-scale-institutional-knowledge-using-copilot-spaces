@@ -9,12 +9,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+1. Kickoff meeting with stakeholders and delivery team (facilitated by Project Manager)
+2. Requirements gathering and documentation (led by Business Analyst with Product Manager)
+3. Create prioritized backlog with acceptance criteria (Product Manager with Business Analyst input)
+4. UX design and wireframes for user-facing features (UX Designer)
+5. Estimate scope (T-shirt sizing or story points, facilitated by Scrum Master)
+6. Define Definition of Done (DoD) with input from QA and UX Designer
+7. Identify dependencies and integration points
+8. Create release plan and milestone map (Project Manager with Release Manager)
 
 ## Backlog Item Template
 - Title:
@@ -26,9 +28,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Related docs/links:
 
 ## Sprint / Iteration Planning
-- Timebox planning to agreed sprint length
+- Scrum Master facilitates sprint planning ceremony
+- Business Analyst ensures user stories have clear acceptance criteria
+- UX Designer presents designs for upcoming work requiring UI changes
 - Pull items that meet DoD and have clear acceptance criteria
-- Ensure team capacity is respected
+- Ensure team capacity is respected (Scrum Master tracks velocity)
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -36,8 +40,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
-- [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Project kickoff held (Project Manager)
+- [ ] Requirements documented and validated (Business Analyst)
+- [ ] UX designs reviewed and approved for user-facing features (UX Designer)
+- [ ] Backlog prioritized and estimated (Product Manager, Scrum Master)
+- [ ] Release timeline and milestones agreed (Project Manager, Release Manager)
+- [ ] Definition of Done documented (Scrum Master with team)
+- [ ] Initial test plan / QA approach drafted (QA with BA input)
