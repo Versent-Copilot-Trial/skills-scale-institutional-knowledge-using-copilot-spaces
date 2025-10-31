@@ -13,11 +13,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
-- High-level timeline and key milestones
-- Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Project One-pager (Problem, Goal, Success Metrics) — Product Manager leads
+- Stakeholder list & communication plan — Project Manager
+- High-level timeline and key milestones — Project Manager with Release Manager input
+- Initial risk list — Project Manager
+- Resource needs (team roles, rough effort estimate) — identify needs for PM, Scrum Master, BA, UX Designer, Developers, QA, Release Manager based on project scope
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager (delivery coordination)
+  - Product Manager (product vision and prioritization)
+  - Scrum Master (if using agile/scrum practices)
+  - Business Analyst (if complex requirements or stakeholder management needed)
+  - UX Designer (if user-facing features)
+  - Developers (number and specializations)
+  - QA/Testing (test strategy and execution)
+  - Release Manager (if coordinated releases across teams)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

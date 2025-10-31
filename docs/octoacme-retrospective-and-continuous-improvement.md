@@ -13,13 +13,16 @@ After each sprint, release, or important milestone. Also after incidents.
 - Follow-up on previous action items
 
 ## Running a Retrospective
+- Facilitated by Scrum Master
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Ensure all roles are represented (Developers, Product Manager, UX Designer, Business Analyst, QA)
 
 ## Tracking Improvements
-- Add action items to the project backlog or issues with clear owners and timelines
-- Review outstanding actions in the weekly PM sync
+- Add action items to the project backlog or issues with clear owners and timelines (Scrum Master tracks)
+- Review outstanding actions in the weekly PM sync (Project Manager and Scrum Master)
+- Process improvements involving specific roles assigned to appropriate owner (e.g., BA for requirements process, Release Manager for deployment process)
 
 ## Example Action Item Template
 - Title:
