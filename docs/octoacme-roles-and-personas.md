@@ -215,6 +215,42 @@ Release Managers coordinate and oversee the release process from planning throug
 
 ---
 
+## QA/Testing
+
+### Role Summary
+QA/Testing professionals ensure product quality through systematic testing and validation. They design test strategies, execute test cases, and work closely with the team to prevent and identify defects before release.
+
+### Responsibilities
+- Develop and maintain test plans and test cases
+- Execute manual and automated testing across different levels (unit, integration, system, acceptance)
+- Identify, document, and track defects
+- Verify bug fixes and validate acceptance criteria
+- Collaborate on Definition of Done and quality standards
+- Support User Acceptance Testing (UAT) coordination
+- Maintain test automation frameworks and scripts
+- Monitor quality metrics and report on test coverage
+
+### Goals
+- Ensure product meets quality standards and acceptance criteria
+- Catch defects early in the development cycle
+- Improve test coverage and automation
+- Reduce escaped defects to production
+
+### Typical Communication
+- Daily standup participation and defect reviews
+- Test plan reviews with Product Manager and Business Analyst
+- Bug triage sessions with Developers
+- Release readiness discussions with Release Manager
+
+### Interactions with Other Roles
+- **Developers**: Collaborates on testability, reproduces and validates bug fixes
+- **Business Analyst**: Reviews requirements and acceptance criteria for testability
+- **UX Designer**: Validates UI/UX implementations against designs
+- **Release Manager**: Provides test sign-off for releases
+- **Scrum Master**: Provides input on Definition of Done and quality practices
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.

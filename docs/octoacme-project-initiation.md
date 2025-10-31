@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan — Project Manager
 - High-level timeline and key milestones — Project Manager with Release Manager input
 - Initial risk list — Project Manager
-- Resource needs (team roles, rough effort estimate) — identify needs for PM, Scrum Master, BA, UX Designer, Developers, QA, Release Manager based on project scope
+- Resource needs (team roles, rough effort estimate) — identify needs for Project Manager, Scrum Master, Business Analyst, UX Designer, Developers, QA/Testing, Release Manager based on project scope
 
 ## Project One-pager Template
 - Project name:
